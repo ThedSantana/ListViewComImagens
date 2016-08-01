@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CarrosApp</string>
+    <string name="modelo">Modelo</string>
+    <string name="fabricante">Fabricante</string>
+    <string name="ano">Ano</string>
+    <string name="OK">OK</string>
+</resources>
